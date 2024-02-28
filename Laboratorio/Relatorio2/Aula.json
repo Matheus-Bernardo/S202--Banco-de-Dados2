@@ -1,0 +1,15 @@
+{
+    "aula": "Banco de Dados 2",
+    "professor": "Jonas",
+    "assunto": "Mongo DB",
+    "alunos":[
+    {
+        "aluno1":"Matheus Bernardo",
+        "aluno2": "Lucas fulano",
+        "aluno3":"Maicon José",
+        "aluno4": "Joana Silva"
+    }
+    ]
+}
+
+  
