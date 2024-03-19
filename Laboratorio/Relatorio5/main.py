@@ -27,7 +27,7 @@ while controle:
         titulo = input("informe o Titulo: ")
         autor = input("informe o autor: ")
         ano = int(input("informe o ano: "))
-        preco = int(input("informe o preco com a casa decimal: "))
+        preco = float(input("informe o preco com a casa decimal: "))
         livroModel.update_livro(id,titulo,autor,ano,preco)
     if(op == 4):
         id = input("informe o id:")
